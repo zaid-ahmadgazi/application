@@ -1,0 +1,6 @@
+{
+  "name": "Two Hearts",
+  "description": "Private, supportive study tracking app for couples featuring 88 chapters, synchronized routines, timer, points ledger, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
